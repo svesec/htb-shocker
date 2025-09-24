@@ -175,6 +175,7 @@ Root flag captured (masked in public evidence). Screenshot (masked):
 Capture user flag:
 $ cat /home/shelly/user.txt
 User flag captured (masked for public report): 9f4e2a...b7c3
+
 ---
 
 ## 8. Cleanup
